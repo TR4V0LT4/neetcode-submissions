@@ -1,4 +1,4 @@
-# NeetCode Solutions — @TR4V0LT4
+# NeetCode Solutions — TR4V0LT4
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
